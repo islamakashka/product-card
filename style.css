@@ -52,3 +52,10 @@ body {
     font-size: 13px;
     line-height: 18px;
 }
+
+.price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+}
