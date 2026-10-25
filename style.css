@@ -111,3 +111,11 @@
     gap: 12px;
     margin-top: auto;
 }
+
+.products__title {
+    color: blue;
+}
+
+.products__title--red {
+    color: red;
+}
